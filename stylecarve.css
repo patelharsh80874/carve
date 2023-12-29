@@ -188,12 +188,12 @@ body {
   gap: 2vw;
 }
 #sun{
-  
+  color:gold;
   display: none;
-  
   cursor: pointer;
 }
 #dark{
+  color: black;
   cursor: pointer;
 }
 @keyframes img {
